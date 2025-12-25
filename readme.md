@@ -109,3 +109,8 @@ my-project/
 - Please make sure you have enough fund for game before.
 
 Let’s redefine the world of online gaming together! 🌟
+
+## Proof of Work
+- deposit: Qk4QV9y2Wk2hFLq4EAjzGPMhZydduE4RkriU2qNcQfAPCRsLCMf5ffkhB8aDKqZR7EfeJXaxePxKbLTJw1ByRQHFIVETKkMqRFpoR64WveWaKQahQQ9EeAFz2AgMn sdfsa
+
+
