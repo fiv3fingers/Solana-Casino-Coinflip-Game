@@ -111,6 +111,15 @@ my-project/
 Let’s redefine the world of online gaming together! 🌟
 
 ## Proof of Work
-- deposit: Qk4QV9y2Wk2hFLq4EAjzGPMhZydduE4RkriU2qNcQfAPCRsLCMf5ffkhB8aDKqZR7EfeJXaxePxKbLTJw1ByRQHFIVETKkMqRFpoR64WveWaKQahQQ9EeAFz2AgMn sdfsa
+- deposit: Qk4QV9y2Wk2hFLq4EAjzGPMhZydduE4RkriU2qNcQfAPCRsLCMf5ffkhB8aDKqZR7EfeJXaxePxKbLTJw1ByRQHFIVETKkMqRFpoR64WveWaKQahQQ9EeAFz2AgMn
+- platformFeewithdraw: 2RzyyywPaFwXvTKbUFeS1ixKGLiLNiKKjHsM8nmWDm3Qo4ejg1njFiuYQw3k1w2RtzrQBRNSsnd6jmkRvgiLNiKKjHsM8nmsdfReafdQQQSTEWQXA
+- withdraw: CeUXGjxxSNbeM3DkdtVHEpBJRrifTnccpWw8FAPAwFXgTXmxAxK4cpDPknngobLPXwpTfGHwZxfty9Gbzh1qjVEDm3Qo4ejg1njFiuYQw3kk1w2RiLNiKKjHsM8n
+
+## CLI Script
+- yarn script config
+- yarn script deposit-usdt -a 1000000000
+- yarn script withdraw-usdt -a 200000000
+- yarn script withdraw-platform-revenue -a 150000000
+- yarn script distribute-to-jackpots -a 30000000
 
 
